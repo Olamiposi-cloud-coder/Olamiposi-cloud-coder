@@ -21,7 +21,11 @@ I'm a still-learning developer passionate about building engaging web applicatio
 </p>
 
 ## GitHub Stats
-[![Olamiposi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olamiposi-cloud-coder)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olamiposi-cloud-coder&show_icons=true&count_private=true&theme=radical" width="480" alt="Olamiposi-cloud-coder's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olamiposi-cloud-coder&layout=compact&theme=radical" alt="Olamiposi-cloud-coder's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olamiposi-cloud-coder&theme=radical" alt="Olamiposi-cloud-coder's Streak Stats" />
+</p>
 
 
 ## Connect with Me
